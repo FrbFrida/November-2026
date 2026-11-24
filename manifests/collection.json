@@ -1,0 +1,15 @@
+{
+  "id" : "https://FrbFrida.github.io/November-2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in FrbFrida/November-2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://FrbFrida.github.io/November-2026/manifests/manifest2.json",
+    "label" : {
+      "en" : [ "Frida's manifest test" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
