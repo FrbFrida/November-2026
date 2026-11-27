@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://FrbFrida.github.io/November-2026/annotations/annotations-1739470943.json" ],
+  "otherContent" : [ "https://FrbFrida.github.io/November-2026/annotations/annotations-1739470943.json", "https://FrbFrida.github.io/November-2026/annotations/annotations-4049269286.json" ],
   "@id" : "https://FrbFrida.github.io/November-2026/annotations/collection.json",
   "label" : "All annotations loaded in FrbFrida/November-2026 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
