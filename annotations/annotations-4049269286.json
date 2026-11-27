@@ -1,0 +1,150 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://FrbFrida.github.io/November-2026/annotations/annotations-4049269286.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "af48516b-af34-491c-8324-6aeaeae977fd",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=4191,3774,711,249"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<div><p>A9190</p></div>"
+    },
+    "created" : "2026-11-26T18:47:38.144Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  }, {
+    "id" : "d0c8017e-3c4d-4ccb-8294-3db5889fd148",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=5018,1746,275,454"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<div><p>Auction label</p></div>"
+    },
+    "created" : "2026-11-26T18:48:40.447Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  }, {
+    "id" : "5cb4df40-2d47-49aa-88d4-5c8f715536d4",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=5891,1166,322,406"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<div><p>Auction label</p></div>"
+    },
+    "created" : "2026-11-26T18:49:31.090Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  }, {
+    "id" : "430e8274-5f17-4edd-98dd-eb03e0346f5d",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=5023,873,304,540"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<div><p>Auction label</p></div>"
+    },
+    "created" : "2026-11-26T18:49:42.927Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  }, {
+    "id" : "17761f84-4876-4769-9a9f-349ff627c7be",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=3824,120,1964,416"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<div><p>unreadable text</p></div>"
+    },
+    "created" : "2026-11-26T18:50:26.129Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  }, {
+    "id" : "b1204f4f-fb2e-40c4-b04d-c672a6747d52",
+    "target" : {
+      "source" : "https://example.org/c123b28a-9c8d-476b-9be3-f66bc5b01843/canvas/4tkay3fsaeo-mwupjppj",
+      "type" : "SpecificResource",
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1305,133,579,141"
+      }
+    },
+    "@context" : "http://www.w3.org/ns/anno.jsonld",
+    "type" : "Annotation",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : ""
+    },
+    "created" : "2026-11-26T18:56:25.116Z",
+    "creator" : {
+      "isGuest" : true,
+      "id" : "BNV6n0Nf633BmvPOQ3Uo"
+    },
+    "motivation" : "commenting"
+  } ]
+}
